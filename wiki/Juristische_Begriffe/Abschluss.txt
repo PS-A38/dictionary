@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-11-14T19:52:42+01:00
+
+====== Abschluss ======
+
+Abschluss ... eines [[Vertrag|Vertrags]] ist das Bewirken einer Bindung der Vertragsparteien durch [[Willenserklärung]] an einen vereinbarten Vertragsinhalt.

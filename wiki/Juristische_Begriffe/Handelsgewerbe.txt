@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-11-14T20:06:54+01:00
+
+====== Handelsgewerbe ======
+
+Handelsgewerbe (§ 1 II HGB) ist jeder [[Gewerbebetrieb]], es sei denn, dass das [[Unternehmen]] nach Art und Umfang einen in [[kaufmännisch|kaufmännischer]] Weise eingerichteten [[Geschäftsbetrieb]] nicht erfordert. Ein [[gewerblich|gewerbliches]] Unternehmen, dessen [[Gewerbebetrieb]] nicht schon nach § 1 II HGB [[Handelsgewerbe]] ist, gilt als Handelsgewerbe, wenn die Firma des Unternehmens in das →[[Handelsregister]] eingetragen ist. Der [[Unternehmer]] ist berechtigt, aber nicht verpflichtet, die Eintragung nach den für die Eintragung kaufmännischer Firmen geltenden Vorschriften herbeizuführen ([[Kannkaufmann]], § 2 HGB) ...

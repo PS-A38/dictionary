@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-11-14T19:53:38+01:00
+
+====== Vertrag ======
+
+Vertrag ist das zweiseitige →[[Rechtsgeschäft]], das grundsätzlich durch zwei sich deckende bzw. einander wechselseitig entsprechende →[[Willenserklärung|Willenserklärungen]] (→[[Antrag]], →[[Annahme]]) zustande kommt (vgl. [[http://www.gesetze-im-internet.de/bgb/__151.html|§ 151 S. 1 BGB]]). Deshalb ist der sog. faktische Vertrag, bei dem lediglich tatsächliches Handeln vorliegt, kein Vertrag. 
+
+Der Vertrag kann entweder einseitig verpflichtender Vertrag //(nur eine der beiden Seiten verpflichtender Vertrag. wie z. B. Schenkung)//, unvollkommen zweiseitig verpflichtender Vertrag //(z. B. Auftrag)// oder vollkommen zweiseitig verpflichtender d. h. gegenseitiger V. (z.B. [[Kauf]]) sein. Der Vertrag kann sich auf die beteiligten Parteien beschränken oder auch auf Dritte erstrecken. Dabei ist ein [[Vertrag zu Lasten Dritter]] auf Grund der [[Privatautonomie]] nicht möglich, wohl aber ein [[Vertrag zugunsten Dritter]]. Dieser kann schützender, ermächtigender oder berechtigender Vertrag zugunsten Dritter sein. 

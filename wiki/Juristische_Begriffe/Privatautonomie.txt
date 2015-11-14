@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-11-14T20:06:01+01:00
+
+====== Privatautonomie ======
+
+Privatautonomie (Eigenverantwortlichkeit) ist der Grundsatz, dass der Einzelne berechtigt ist, seine Lebensverhältnisse im Rahmen der Rechtsordnung eigenverantwortlich zu gestalten. Die Privatautonomie ist ein Teil des allgemeinen Selbstbestimmungsrechts des Menschen, das durch die Art. 1, 2 GG geschützt wird. Sie gehört zu den Grundwerten der freiheitlichen Rechtsordnung .... Sie berechtigt zur eigenverantwortlichen Begründung, Änderung und Aufhebung von →[[Rechte|Rechten]] und →[[Pflichten]].
