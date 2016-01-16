@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-01-16T15:00:01+01:00
+
+====== Vollstreckung Bescheid ======
+Created Samstag 16 Januar 2016
+
+Urteil des Verwaltungsgerichtes Hannover vom 29.03.2004 (6 A 844/02) wo es heißt:
+
+„Die Vollstreckungsbehörde trägt die materielle Beweislast für die wirksame Bekanntgabe des Leistungsbescheides. Die Bescheinigung der Vollstreckbarkeit durch die um die Vollstreckung ersuchende Stelle ersetzt den Beweis der wirksamen Bekanntgabe des Leistungsbescheides nicht … Wendet sich der Vollstreckungsschuldner im gerichtlichen Verfahren gegenüber der Vollstreckungsbehörde gegen die von ihr getroffene Vollstreckungsmaßnahme, kann er sich ihr gegenüber darauf berufen, ihm sei der Leistungsbescheid nicht bekannt gegeben worden. Kann das Gericht die ordnungsgemäße Bekanntgabe des Leistungsbescheides tatsächlich nicht feststellen, geht dies zulasten der Vollstreckungsbehörde, die insoweit im Zweifel die materielle Beweislast trägt (vgl. § 41 Abs. 2 Satz 2, 2. Halbsatz VwVfG), auch wenn sie die Vollstreckung lediglich auf Ersuchen durchführt und die ersuchende Stelle ihr gegenüber die Vollstreckbarkeit des Leistungsbescheides bescheinigt hat. Denn mit der Bescheinigung der ersuchenden Stelle übernimmt diese lediglich im Innenverhältnis zur ersuchten Vollstreckungsbehörde die Verantwortung für das Vorliegen der Vollstreckungsvoraussetzungen. Im Verhältnis zwischen Vollstreckungsbehörde und Vollstreckungsschuldner kann sich dieser jedoch weiterhin auf das Fehlen der Vollstreckungsvoraussetzungen berufen, zumal diese als die Behörde, die den angegriffenen Verwaltungsakt erlassen hat, die einzig richtige Beklagte … und von daher prozessual verantwortlich für das vorliegen der Vollstreckungsvoraussetzungen ist (BFH, Beschluss vom 04.07.1986 – VII B 151/85 – NvWZ 1987, S. 535).“
