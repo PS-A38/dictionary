@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-06-25T22:39:13+02:00
+
+====== Rechtsanwalt ======
+Created Sonntag 25 Juni 2017
+
+§ 43 Bundesrechtsanwaltsordnung: Allgemeine Berufspflicht
+
+Der Rechtsanwalt hat seinen Beruf gewissenhaft auszuüben. Er hat sich innerhalb und außerhalb des Berufes der Achtung und des Vertrauens, welche die Stellung des Rechtsanwalts erfordert, würdig zu erweisen.
